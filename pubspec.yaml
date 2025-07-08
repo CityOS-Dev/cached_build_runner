@@ -14,7 +14,7 @@ dependencies:
   crypto: ^3.0.1
   get_it: ^7.6.7
   hive: ^2.2.3
-  logger: ^1.1.0
+  logger: any
   meta: ^1.11.0
   path: ^1.8.2
   synchronized: ^3.0.1
